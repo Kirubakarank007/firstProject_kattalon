@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test 1,Chrome 120.0.0.0,,,16-01-2024 12:55:48,16-01-2024 12:58:14,2m - 25.836s,PASSED
+,,,,,,,
+Test Cases/leet_code test,Chrome 120.0.0.0,,,16-01-2024 12:57:21,16-01-2024 12:58:00,39.354s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,16-01-2024 12:57:21,16-01-2024 12:57:22,0.917s,PASSED
+"navigateToUrl(""https://leetcode.com/accounts/login/?next=%2Fproblemset%2F"")",Chrome 120.0.0.0,,,16-01-2024 12:57:22,16-01-2024 12:57:27,5.498s,PASSED
+"setText(findTestObject(""Object Repository/leet_code/Page_Account Login - LeetCode/input_login""), ""kirubakaran02002@gmail.com"")",Chrome 120.0.0.0,,,16-01-2024 12:57:27,16-01-2024 12:57:39,11.207s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/leet_code/Page_Account Login - LeetCode/input_password""), ""x3n6nxVUJn6i5UMFTUkg1A=="")",Chrome 120.0.0.0,,,16-01-2024 12:57:39,16-01-2024 12:57:41,2.036s,PASSED
+"click(findTestObject(""Object Repository/leet_code/Page_Account Login - LeetCode/span_Sign In""))",Chrome 120.0.0.0,,,16-01-2024 12:57:41,16-01-2024 12:57:41,0.690s,PASSED
+"click(findTestObject(""Object Repository/leet_code/Page_Problems - LeetCode/img_h-full w-full rounded-full object-cover""))",Chrome 120.0.0.0,,,16-01-2024 12:57:41,16-01-2024 12:57:53,12.013s,PASSED
+"click(findTestObject(""Object Repository/leet_code/Page_Problems - LeetCode/a_KIRUBAKARAN_K""))",Chrome 120.0.0.0,,,16-01-2024 12:57:53,16-01-2024 12:57:57,3.967s,PASSED
+"click(findTestObject(""Object Repository/leet_code/Page_KIRUBAKARAN_K - LeetCode Profile/img_h-full w-full rounded-full object-cover""))",Chrome 120.0.0.0,,,16-01-2024 12:57:57,16-01-2024 12:57:59,2.244s,PASSED
+"click(findTestObject(""Object Repository/leet_code/Page_KIRUBAKARAN_K - LeetCode Profile/div_Sign Out""))",Chrome 120.0.0.0,,,16-01-2024 12:57:59,16-01-2024 12:58:00,0.567s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,16-01-2024 12:58:00,16-01-2024 12:58:00,0.191s,PASSED
+,,,,,,,
+Test Cases/leet_code_manual,Chrome 120.0.0.0,,,16-01-2024 12:58:00,16-01-2024 12:58:14,13.254s,PASSED
+"openBrowser(""https://leetcode.com/accounts/login/?next=%2Fproblemset%2F"")",Chrome 120.0.0.0,,,16-01-2024 12:58:00,16-01-2024 12:58:04,3.550s,PASSED
+"setText(findTestObject(""leet_code_manual/Page_Account Login - LeetCode/input_Premium_login""), ""kirubakaran02002@gmail.com"")",Chrome 120.0.0.0,,,16-01-2024 12:58:04,16-01-2024 12:58:06,2.381s,PASSED
+"setText(findTestObject(""leet_code_manual/Page_Account Login - LeetCode/input_Premium_password""), ""Kiruba++0070"")",Chrome 120.0.0.0,,,16-01-2024 12:58:06,16-01-2024 12:58:07,0.884s,PASSED
+"click(findTestObject(""leet_code_manual/Page_Account Login - LeetCode/div_Sign In""))",Chrome 120.0.0.0,,,16-01-2024 12:58:07,16-01-2024 12:58:08,0.354s,PASSED
+"click(findTestObject(""leet_code_manual/Page_Problems - LeetCode/img_Store_h-full w-full rounded-full object-cover""))",Chrome 120.0.0.0,,,16-01-2024 12:58:08,16-01-2024 12:58:13,5.217s,PASSED
+"verifyElementPresent(findTestObject(""leet_code_manual/Page_Problems - LeetCode/a_KIRUBAKARAN_K""), 0)",Chrome 120.0.0.0,,,16-01-2024 12:58:13,16-01-2024 12:58:13,0.430s,PASSED
+"click(findTestObject(""leet_code_manual/Page_Problems - LeetCode/li_Sign Out""))",Chrome 120.0.0.0,,,16-01-2024 12:58:13,16-01-2024 12:58:14,0.358s,PASSED

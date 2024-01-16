@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>43d15114-05aa-4a7e-85f0-39592a1da049</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='web-user-menu']/div/ul/li[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2aa6fca0-6aaa-4920-9431-c9accf1384c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-text-secondary dark:text-text-secondary hover:text-text-secondary dark:hover:text-text-secondary hover:bg-fill-4 dark:hover:bg-dark-fill-4 rounded cursor-pointer flex items-center py-3 space-x-6 px-2 md:space-x-3 md:py-[10px]</value>
+      <webElementGuid>5cb5d30e-76cd-4e65-ae88-cbf779caf586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>a0527627-1b7b-4ccc-8e74-3f4b376f68dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>67a2f546-81cf-4223-a43e-06d17dfb3598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;web-user-menu&quot;)/div[@class=&quot;relative flex w-[264px] flex-col&quot;]/ul[@class=&quot;m-0  p-0 px-4 md:mt-4 md:border-none md:px-0&quot;]/li[@class=&quot;text-text-secondary dark:text-text-secondary hover:text-text-secondary dark:hover:text-text-secondary hover:bg-fill-4 dark:hover:bg-dark-fill-4 rounded cursor-pointer flex items-center py-3 space-x-6 px-2 md:space-x-3 md:py-[10px]&quot;]</value>
+      <webElementGuid>ab47cfee-a542-4a04-b8df-486efad5f624</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='web-user-menu']/div/ul/li[6]</value>
+      <webElementGuid>2c1c27f4-c94e-4704-bdb1-fafd34d95449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[6]</value>
+      <webElementGuid>ab2dca7c-1070-4dfe-a888-b92c7bf0526c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>13eb101f-5fa5-426f-88c6-0104f9c2740e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

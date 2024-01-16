@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/leet_code/Page_Problems - LeetCode/img_h-full w-full rounded-full object-cover",
+      "brokenLocator": "//span[@id\u003d\u0027navbar_user_avatar\u0027]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/leet_code/Page_Problems - LeetCode/img_h-full w-full rounded-full object-cover_position.png"
+    }
+  ]
+}
